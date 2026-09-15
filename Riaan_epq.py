@@ -1,5 +1,5 @@
 import math
-
+# Created by Riaan Coetzee u23525283
 # === Explanation ===
 """
 Economic Production Quantity (EPQ) is a mathematical model that is used 
@@ -7,6 +7,7 @@ if you are the manufacturer and seller of a product. It detrimines the
 optimal production quantity by incorporating the daily demand and daily 
 production.
 """
+# --------------------------------------------------------------------
 
 # === Origional Inputs ===
 annual_demand =         12000   # units per year

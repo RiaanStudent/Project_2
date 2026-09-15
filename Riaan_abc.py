@@ -1,6 +1,10 @@
+# Created by Riaan Coetzee u23525283
+# === Explanation ===
 """This code is for classifing items into A, B and C tiers to 
 better define the most important items to keep a focus on, 
 based on 80%, 15%, and 5% contibution to total sales"""
+# --------------------------------------------------------------------
+
 # === Origional Input === 
 skus = [
     {"sku": "BRK-100",  "demand": 2000,   "cost": 45},
